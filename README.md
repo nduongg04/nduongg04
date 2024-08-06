@@ -105,5 +105,5 @@
 </p>
 
 <p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nduongg04&show_icons=true&locale=en" alt="nduongg04" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nduongg04&show_icons=true&locale=en&rank_icon=github" alt="nduongg04" />
 </p>
