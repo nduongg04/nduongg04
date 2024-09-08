@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+!+👋;+I'm+Nguyen+Duong+!;" />
 </h1>
 <h3 align="center">A passionate full-stack developer from VietNam</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG1wZDJubGJkajBpN2R2am1vZGVoZWZlZHA4bXo0Y2N2ZDFyeGx6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=nduongg04&label=Profile%20views&color=0e75b6&style=flat" alt="nduongg04" /> 
