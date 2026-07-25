@@ -1,9 +1,7 @@
-[![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://rishavchanda.io)
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+!+👋;+I'm+Nguyen+Duong+!;" />
 </h1>
-<h3 align="center">A passionate full-stack developer from VietNam</h3>
+<h3 align="center">A passionate full-stack developer from Vietnam</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG1wZDJubGJkajBpN2R2am1vZGVoZWZlZHA4bXo0Y2N2ZDFyeGx6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> 
