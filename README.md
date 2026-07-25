@@ -44,11 +44,3 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="45" height="45"/>
     </a>
 </p>
-
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nduongg04&show_icons=true&locale=en&layout=compact" alt="nduongg04" />
-</p>
-
-<p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nduongg04&show_icons=true&locale=en&rank_icon=github" alt="nduongg04" />
-</p>
