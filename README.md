@@ -8,9 +8,9 @@
     <img src="https://komarev.com/ghpvc/?username=nduongg04&label=Profile%20views&color=0e75b6&style=flat" alt="nduongg04" /> 
 </p>
 
--   🌱 I’m currently learning **GraphQL, NestJs, PostgreSQL, Redis**
+-   🌱 I’m currently learning **DevOps, Security**
 
--   💬 Ask me about **Web, NextJs, React, NestJs**
+-   💬 Ask me about **Web, DevOps, Security**
 
 -   📫 How to reach me **nduongg04@gmail.com**
 
